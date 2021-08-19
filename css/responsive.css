@@ -1,0 +1,256 @@
+@media only screen and (max-width: 1640px) {
+  .just {
+    padding-top: 200px;
+    padding-left: 500px;
+  }
+  .just .just-top {
+    padding-right: 200px;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .just {
+    padding-top: 120px;
+    padding-left: 25rem;
+  }
+  .just .just-top {
+    padding-right: 9.375rem;
+  }
+  .just .just-top h1 {
+    font-size: 40px;
+  }
+}
+
+@media only screen and (max-width: 1240px) {
+  .home {
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+  .just {
+    padding-left: 350px;
+    padding-top: 6.25rem;
+    padding-bottom: 60px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .culture .culture-content .culture-item::after {
+    width: 150px;
+    margin-left: 250px;
+  }
+}
+
+@media only screen and (max-width: 1140px) {
+  .home .home-content {
+    padding: 150px;
+  }
+  .home .home-content h1 {
+    font-size: 55px;
+  }
+  .home .home-content p {
+    font-size: 25px;
+  }
+  .just {
+    padding-left: 350px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+  }
+  .just .just-top h1 {
+    font-size: 35px;
+  }
+  .just button {
+    margin: 20px;
+    padding: 10px 30px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .home {
+    padding: 0;
+  }
+  .home .home-content {
+    padding: 130px;
+  }
+  .home .home-content h1 {
+    font-size: 50px;
+  }
+  .home .home-content p {
+    font-size: 25px;
+  }
+  .home .home-content button {
+    margin: 0;
+  }
+  .just {
+    padding-left: 300px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+  }
+  .just .just-top h1 {
+    font-size: 35px;
+  }
+  .just button {
+    margin: 20px;
+    padding: 10px 30px;
+  }
+  .culture .culture-content .culture-item::after {
+    display: none;
+  }
+  .latest .latest-content {
+    padding: 0px 150px 0px 0px;
+  }
+  .latest .latest-bottom {
+    padding-right: 400px;
+  }
+  .ourawesome {
+    padding: 70px 0px;
+  }
+  .ourawesome .ourawesome-content {
+    padding: 0px;
+  }
+  .ourawesome .ourawesome-content .flex-container .flex-text {
+    margin: 0px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .home {
+    padding: 0;
+  }
+  .home .home-content {
+    padding: 130px 100px;
+  }
+  .home .home-content h1 {
+    font-size: 50px;
+  }
+  .home .home-content p {
+    font-size: 25px;
+  }
+  .home .home-content button {
+    margin: 0;
+  }
+  .just {
+    padding-left: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    margin: 0;
+  }
+  .just .just-top {
+    padding: 0;
+    margin: 0;
+  }
+  .just .just-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+  }
+  .just button {
+    margin: 0px;
+    padding: 10px 30px;
+  }
+  .ourawesome .ourawesome-content .flex-container img {
+    display: none;
+  }
+  .latest {
+    background: none;
+    padding: 0;
+    margin: 50px;
+  }
+  .latest .latest-top {
+    padding: 0;
+    margin: 0;
+  }
+  .latest .latest-content {
+    padding: 0;
+    margin: 0;
+  }
+  .latest .latest-bottom {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .home {
+    padding: 0;
+  }
+  .home .home-content {
+    padding: 100px 0px;
+  }
+  .home .home-content h1 {
+    font-size: 40px;
+  }
+  .home .home-content p {
+    font-size: 20px;
+  }
+  .home .home-content button {
+    margin: 0;
+    padding: 10px;
+    font-size: 15px;
+  }
+  .about {
+    padding: 50px 0px;
+  }
+  .about .about-top {
+    padding: 50px 0px;
+  }
+  .about .about-top h1 {
+    font-size: 30px;
+  }
+  .about .about-top p {
+    font-family: 'RobotoSlab';
+    opacity: 0.8;
+  }
+  .just {
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    margin: 0;
+  }
+  .just .just-top {
+    padding: 0;
+    margin: 0;
+  }
+  .just .just-top h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+  }
+  .just button {
+    margin: 0px;
+    padding: 10px 10px;
+    font-size: 10px;
+  }
+  .latest .latest-top h1 {
+    font-size: 30px;
+  }
+  .ourawesome .ourawesome-top h1 {
+    font-size: 30px;
+  }
+  .ourawesome .ourawesome-content {
+    padding: 0;
+    margin: 0;
+  }
+  .ourawesome .ourawesome-content .flex-container {
+    padding: 0;
+    margin: 0;
+  }
+  .ourawesome .ourawesome-content .flex-container .flex-text {
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+  }
+  .ourawesome .ourawesome-content .flex-container img {
+    display: none;
+  }
+  .culture .culture-top h1 {
+    font-size: 30px;
+  }
+  .ready {
+    padding: 20px 0px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
